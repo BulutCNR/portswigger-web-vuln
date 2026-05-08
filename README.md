@@ -1,14 +1,13 @@
-# PortSwigger Web Security Academy — SQLi Writeups
+# PortSwigger Web Security Academy — Writeups
 
-Audit-style writeups for PortSwigger SQL Injection labs, written as professional penetration test findings.
+Audit-style writeups for PortSwigger labs, written as professional penetration test findings.
 
 Each lab includes:
 - CWE classification
 - CVSS v3.1 scoring with vector breakdown
 - ISO 27001:2022 control mapping
 - OWASP Top 10 alignment
-- "Payloads" in `.sql` files
-- Vulnerable patterns and secure fixes in Python and Java
+- Vulnerable patterns and secure fixes in Python or Java
 
 ---
 
