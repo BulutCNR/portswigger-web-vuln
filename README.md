@@ -1,4 +1,4 @@
-# PortSwigger Web Security Academy — Writeups
+# PortSwigger Web Security Academy Writeups
 
 Audit-style writeups for PortSwigger labs, written as professional penetration test findings.
 
